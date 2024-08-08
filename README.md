@@ -1,1 +1,1 @@
-# Sistema-de-Gest-o-da-Olimp-ada-de-Matem-tica
+# Sistema-de-Gestao-da-Olimpiada-de-Matematica
