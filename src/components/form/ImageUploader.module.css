@@ -1,0 +1,45 @@
+.imageUploader {
+  margin: 10px;
+}
+
+.preview {
+  margin-top: 10px;
+}
+
+.preview img {
+  width: 200px;
+  height: auto;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+.uploadButton {
+  background-color: #222;
+  color: #fff;
+  padding:  0.7em 1.2em;
+  text-decoration: none;
+  transition: 0.2s;
+  cursor: pointer;
+  border: none;
+  border-radius: 30px;
+}
+.uploadButton:hover{
+  color: #2adb33;
+}
+.submitButton{
+    background-color: #2adb33;
+    color: #fff;
+    padding:  0.7em 1.2em;
+    text-decoration: none;
+    transition: 0.2s;
+    cursor: pointer;
+    border: none;
+    border-radius: 30px;
+    
+}
+.submitButton:hover{
+    color: #222;
+}
+  
+
+  
